@@ -1,0 +1,5 @@
+rno name english maths total
+A4	SAI	150	150	300
+A1	gandhi	90	100	190
+A3	parvathi	90	90	180
+A2	kasthuri	60	90	150

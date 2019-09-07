@@ -1,0 +1,4 @@
+rno name      english  maths 
+A1  gandhi      90       100
+A2  kasthuri    60       90
+A3  parvathi    90       90
